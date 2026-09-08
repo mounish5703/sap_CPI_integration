@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "customerId": "CUST001",
+      "name": "Arun Kumar",
+      "email": "arun.kumar@example.com",
+      "phone": "+91-9876543210",
+      "city": "Chennai",
+      "status": "Active"
+    },
+    {
+      "customerId": "CUST002",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "phone": "+91-9876543211",
+      "city": "Bangalore",
+      "status": "Active"
+    },
+    {
+      "customerId": "CUST003",
+      "name": "Rahul Kumar",
+      "email": "rahul.kumar@example.com",
+      "phone": "+91-9876543212",
+      "city": "Hyderabad",
+      "status": "Inactive"
+    }
+  ]
+}
